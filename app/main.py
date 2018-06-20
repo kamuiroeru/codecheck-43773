@@ -7,3 +7,7 @@ def main(argv):
 
     for i, v in enumerate(argv):
         print("argv[{0}]: {1}".format(i, v))
+
+    print('hoge')
+    print('fuga')
+    print('pyo')
